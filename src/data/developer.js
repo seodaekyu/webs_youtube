@@ -102,7 +102,7 @@ export const developerText = [
         channelId: "UCku8mOp8y05Cm6sb9Rp0jMQ"
     },
     {
-        img: "https://yt3.googleusercontent.com/1gLFRSPxZUYjlGG-Ap7B2bymZkdp4fFuSTAntouex6mdUQUZ2lA8kWMrzKOLHAdfkzjopcntU7E=s176-c-k-c0x00ffffff-no-rj",
+        img: "https://yt3.ggpht.com/SrCeLz3yIf5kVvXOZz8VzenrpyYOIolN9xAdyQI9X6G-_JhiGKqR0nRQ_OcaK5c5cYkyeA0OFQ=s176-c-k-c0x00ffffff-no-rj-mo",
         name: "프로그래머 김플 스튜디오",
         channelAddress: "https://www.youtube.com/@kimfl",
         channelId: "UCdNSo3yB5-FRTFGbUNKNnwQ"
