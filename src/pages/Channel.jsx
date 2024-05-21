@@ -7,7 +7,7 @@ import Main from '../components/section/Main'
 import { CiBadgeDollar } from "react-icons/ci";
 import { CiMedal } from "react-icons/ci";
 import { CiRead } from "react-icons/ci";
-import VideoSearch from '../components/contents/videos/VideoSearch';
+import VideoSearch from '../components/videos/VideoSearch';
 
 const Channel = () => {
     const { channelId } = useParams();

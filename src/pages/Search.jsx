@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import Main from '../components/section/Main'
 
-import VideoSearch from '../components/contents/videos/VideoSearch'
+import VideoSearch from '../components/videos/VideoSearch'
 import { fetchFromAPI } from '../utils/api'
 
 const Search = () => {

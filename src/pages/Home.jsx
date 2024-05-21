@@ -2,7 +2,7 @@ import React from 'react'
 import Main from '../components/section/Main'
 import Today from '../components/contents/Today'
 import Developer from '../components/contents/Developer'
-import VideoSlider from '../components/contents/videos/VideoSlider'
+import VideoSlider from '../components/videos/VideoSlider'
 
 import { webdText } from '../data/webd'
 import { websiteText } from '../data/website'

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Main from '../components/section/Main'
 
-import VideoCard from '../components/contents/videos/VideoCard'
+import VideoCard from '../components/videos/VideoCard'
 import { webdText } from '../data/webd'
 
 const Webd = () => {
