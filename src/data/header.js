@@ -57,7 +57,7 @@ export const headerMenus = [
 
 export const searchKeyword = [
     {
-        title: "webstoryboy",
+        title: "Webstoryboy",
         src: "/search/webstoryboy"
     },
     {
@@ -69,7 +69,7 @@ export const searchKeyword = [
         src: "/search/css"
     },
     {
-        title: "JavaScript",
+        title: "Javascript",
         src: "/search/javascript"
     },
     {
@@ -93,12 +93,12 @@ export const searchKeyword = [
         src: "/search/sql"
     },
     {
-        title: "portfolio",
-        src: "/search/React Portfolio"
+        title: "Portfolio",
+        src: "/search/portfolio"
     },
     {
-        title: "music",
-        src: "/search/NewJeans"
+        title: "Music",
+        src: "/search/music"
     }
 ];
 
